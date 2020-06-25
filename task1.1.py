@@ -2,3 +2,4 @@
 # surneme=input("Введите имя:")
 # full_name=name[0]+'.'+surneme
 # print("Здрайствуйте,"+full_name)
+print('hh')
